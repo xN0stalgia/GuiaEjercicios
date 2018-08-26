@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535285628 source:c:\users\pc\desktop\areatriybase\main.c
+	<stdio.h>
+	<stdlib.h>
+

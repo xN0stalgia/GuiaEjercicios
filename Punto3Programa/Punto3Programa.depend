@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535271796 source:c:\users\pc\desktop\punto3programa\main.c
+	<stdio.h>
+	<stdlib.h>
+
