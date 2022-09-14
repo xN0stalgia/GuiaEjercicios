@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653948813 source:/home/leo/workspacecb/estructuras/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656362654 source:c:\users\asus\desktop\programacion de computadoras sistemas\estructurasprofesorejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
