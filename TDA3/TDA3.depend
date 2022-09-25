@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1537634822 source:/home/leo/workspacecb/TDA3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAFecha.h"
+	"util.h"
+
+1537634796 /home/leo/workspacecb/TDA3/TDAFecha.h
+
+1537634402 source:/home/leo/workspacecb/TDA3/TDAFecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDAFecha.h"
+
+1537634179 source:/home/leo/workspacecb/TDA3/util.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1537634319 /home/leo/workspacecb/TDA3/util.h
+
+1658260615 source:c:\users\asus\desktop\programacion de computadoras sistemas\tda3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAFecha.h"
+	"util.h"
+
+1657838116 c:\users\asus\desktop\programacion de computadoras sistemas\tda3\tdafecha.h
+
+1537634319 c:\users\asus\desktop\programacion de computadoras sistemas\tda3\util.h
+
+1537634179 source:c:\users\asus\desktop\programacion de computadoras sistemas\tda3\util.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1658260792 source:c:\users\asus\desktop\programacion de computadoras sistemas\tda3\tdafecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDAFecha.h"
+
